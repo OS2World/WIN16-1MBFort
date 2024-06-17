@@ -1,0 +1,7 @@
+VIEW1MB.FRM
+VIEW1MB.BAS
+ProjWinSize=15,670,196,128
+ProjWinShow=2
+IconForm="frmView1MB"
+Title="VIEW1MB"
+ExeName="VIEW1MB.EXE"
